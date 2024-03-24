@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git-emran
-- 👀 I’m interested in learning front end development
-- 🌱 I’m currently learning React, Swift, Flutter, CoreML & NLP
+- 👀 I’m interested in Machine learning, Expert in Front-end technologies
+- 🌱 React, Typescript, Swift, Flutter, Svelte
 - 💞️ I’m looking to collaborate on any front end related project  
 - 📫 Reach me at emrn.hossn@gmail.com
 
