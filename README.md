@@ -4,6 +4,11 @@ I'm a passionate programmer who loves the design side of things. I enjoy buildin
 
 ---
 
+## 📊 GitHub Metrics
+
+![GitHub Metrics](https://raw.githubusercontent.com/git-emran/git-emran/main/github-metrics.svg)
+
+
 ## 🚀 Languages and Tools I Use
 
 <p align="left">
