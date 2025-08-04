@@ -50,12 +50,6 @@ I'm a passionate programmer who loves the design side of things. I enjoy buildin
 
 ---
 
-## 📊 GitHub Metrics
-
-![GitHub Metrics](https://raw.githubusercontent.com/git-emran/git-emran/main/github-metrics.svg)
-
----
-
 ## ⚡️ Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emran%20Hossain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emran-hossain-80ab17190/)
