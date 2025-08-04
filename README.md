@@ -3,7 +3,7 @@
 I'm a passionate programmer who loves the design side of things. I enjoy building beautiful, performant, and scalable applications from frontend to backend.
 
 ---
-
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 ## 🚀 Languages and Tools I Use
 
