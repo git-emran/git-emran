@@ -2,22 +2,19 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * 0"
-  workflow_dispatch:
-  push:
-    branches: ["main"]
+    - cron: "0 0 * * 0" # Runs every Sunday at midnight
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate full-year isometric calendar
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.ISO_METRICS }}
           filename: metrics.plugin.isocalendar.fullyear.svg
-
+          token: ${{ secrets.ISO_METRICS }}
           base: ""
-
-          # ISO calendar plugin (heatmap for full year)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
