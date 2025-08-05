@@ -45,7 +45,9 @@ I'm a passionate programmer who loves the design side of things. I enjoy buildin
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
----
+
+# 📂 Check out what I am working on
+[Writr](https://github.com/git-emran/simple-notes) - Writr - A Markdown writer desktop application. For now it supports basic markup syntaxes. Working on File system, Adavnced markup syntaxes.
 
 ## ⚡️ Where to Find Me
 
