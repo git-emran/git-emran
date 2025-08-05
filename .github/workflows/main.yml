@@ -1,16 +1,15 @@
-name: Metrics
-
+name: Full-year calendar
 on:
   schedule:
-    - cron: "0 0 * * 0" # Runs every Sunday at midnight
-  workflow_dispatch:      # Allows manual trigger
-
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Generate full-year isometric calendar
+      - name: Generate Full-year calendar
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
@@ -18,3 +17,8 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: America/New_York
+          config_padding: 6%
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update full-year calendar"
