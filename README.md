@@ -2,7 +2,7 @@
 
 I'm a passionate programmer who loves the design side of things. I enjoy building beautiful, performant, and scalable applications from frontend to backend.
 
----
+
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 <p align="center"><img src="metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Calendar" width="400"></p>
 
@@ -47,8 +47,10 @@ I'm a passionate programmer who loves the design side of things. I enjoy buildin
 
 
 # 📂 Check out what I am working on
-[Writr](https://github.com/git-emran/simple-notes) - Writr - A Markdown writer desktop application. For now it supports basic markup syntaxes. Working on File system, Adavnced markup syntaxes.
+[Emran/Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writr For now. It supports basic markup syntaxes. Working on File system, Adavnced markup syntaxes.
 
-## ⚡️ Where to Find Me
 
+
+
+## ⚡️ Where to Find Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emran%20Hossain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emran-hossain-80ab17190/)
