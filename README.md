@@ -46,7 +46,7 @@ I'm a passionate programmer who loves the design side of things. I enjoy buildin
 </p>
 
 
-# 📂 Check out what I am working on
+## 📂 Check out what I am working on
 [Emran/Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writr For now. It supports basic markup syntaxes. Working on File system, Adavnced markup syntaxes.
 
 
