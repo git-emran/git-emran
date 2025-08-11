@@ -1,4 +1,4 @@
-# 🥸Engineer and Designer
+# 🥸 Engineer & Designer
 
 I am passionate about programming and design. Why? I am an artist by nature, abstraction always attract me. How do I enjoy programming and design ? Well I create all the things I can imagine. I enjoy the process first then the fruits of my labor.
 
@@ -46,7 +46,9 @@ I am passionate about programming and design. Why? I am an artist by nature, abs
 
 ## 📂 Check out what I am working on
 
-[Emran/Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writr For now. It supports basic markup syntaxes. Working on File system, Adavnced markup syntaxes.
+[Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writr For now. It supports basic markup syntaxes. Working on File system, Adavnced markup syntaxes.
+
+[StatusCode](https://github.com/git-emran/source-code) - This platform enables you to conduct coding interviews with a video call with multiple hiring managers.
 
 ## ⚡️ Where to Find Me
 
