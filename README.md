@@ -48,8 +48,6 @@ I am passionate about programming and design and Vim. Why? I am an artist by nat
 
 [Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writr For now. It supports basic markup syntaxes. Working on File system, Adavnced markup syntaxes.
 
-[WebCrawler](https://github.com/git-emran/Web-Scraper) - This is a webcrawler from scratch using Typescript
-
 ## ⚡️ Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emran%20Hossain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emran-hossain-80ab17190/)
