@@ -1,6 +1,6 @@
-# 🥸 Engineer & Designer
+# 0→1 Engineer & Designer
 
-I am passionate about programming and design. Why? I am an artist by nature, abstraction always attract me. How do I enjoy programming and design ? Well I create all the things I can imagine. I enjoy the process first then the fruits of my labor.
+I am passionate about programming and design and Vim. Why? I am an artist by nature, and for some reason any form of abstraction always attracts me. How do I "enjoy" programming and design ? Well I try to create all the things I can imagine. I enjoy the process first then the fruits of my labor.
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 <p align="center"><img src="metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Calendar" width="400"></p>
