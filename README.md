@@ -46,7 +46,15 @@ I am passionate about programming and design and Vim. Why? I am an artist by nat
 
 ## 📂 Check out what I am working on
 
-[Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writr For now. It supports basic markup syntaxes. Working on File system, Adavnced markup syntaxes.
+#### Writr
+
+[Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writr For now. It supports basic markup syntaxes. Becasue I hate bloating or extending markdown.
+
+> Currently I am working on an intuitive File system and web view.
+
+#### Chess Engine
+
+[Chess Engine](https://github.com/git-emran/ChessEngine) - A Chess Engine written in python from scratch. I am a chess enthusiast and I love to play chess. So I have decided to write a chess engine that works the way I want it to, also to implement the features I want in a chess match.
 
 ## ⚡️ Where to Find Me
 
