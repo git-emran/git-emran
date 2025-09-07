@@ -48,9 +48,9 @@ I am passionate about programming and design and Vim. Why? I am an artist by nat
 
 #### Writr
 
-[Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writr For now. It supports basic markup syntaxes. Becasue I hate bloating or extending markdown.
+[Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writer. It supports all the markdown syntaxes. It has LSP(Language Server Protocol) support for 10+ languages including Rust and Golang, Native Markdown Preview and **Vim motions.**
 
-> Currently I am working on an intuitive File system and web view.
+> Currently I am working on an intuitive File system.
 
 #### Chess Engine
 
