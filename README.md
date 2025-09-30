@@ -11,8 +11,6 @@ I am passionate about programming and design and Vim. Why? I am an artist by nat
 
 [Writr](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writer. It supports all the markdown syntaxes. It has built in LSP(Language Server Protocol) and Syntax highlighting support for 10+ languages including Rust and Golang. You can build your workflows using MermaidJs in side writer. It supports Native Markdown Preview as a reader mode and more importantly Move around with **Vim motions.**
 
-> Currently I am integrating LSP support for Typst.
-
 #### Chess Engine
 
 [Chess Engine](https://github.com/git-emran/ChessEngine) - A Chess Engine written in python from scratch. I am a chess enthusiast and I love to play chess. So I have decided to write a chess engine that works the way I want it to, also to implement the features I want in a chess match.
