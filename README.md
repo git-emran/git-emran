@@ -7,13 +7,16 @@ I am passionate about programming and design and Vim. Why? I am an artist by nat
 
 ## 📂 Check out what I am working on
 
-#### Writer
+### Writer
 
-[Writer](https://github.com/git-emran/simple-notes) - A Markdown writer desktop application. I call it Writer. It supports all the markdown syntaxes. It has built in LSP(Language Server Protocol) and Syntax highlighting support for 10+ languages including Puthon and Golang. You can build your workflows using MermaidJs inside writer. It supports Native Markdown Preview as a reader mode and more importantly Move around with **Vim motions.**
+[Writer](https://github.com/git-emran/simple-notes) - A Markdown editing desktop application built specially for Software Builders. I call it Writer. It supports all the markdown syntaxes. It has built in LSP(Language Server Protocol) and Syntax highlighting support for 10+ languages including Python, Golang, Javascript etc. You can build your workflows using MermaidJs inside writer. It supports Native Markdown Preview with a reader mode and more importantly navigate around with **Vim motions.** One of the interesting part of this application is that it comes with an integrated terminal, Spreadsheet and a Kanban board to support various levels of workflow of a developer.
 
-#### Chess Engine
+### Slides - Neovim Plugin
 
-[Chess Engine](https://github.com/git-emran/ChessEngine) - A Chess Engine written in python from scratch. I am a chess enthusiast and I love to play chess. So I have decided to write a chess engine that works the way I want it to, also to implement the features I want in a chess match.
+[Chess Engine](https://github.com/git-emran/slides.nvim) - A Slideshow Presentation inside Neovim. Inside any Markdown file, with the command `:Slides` a new tab gets created that is ready for Presentation. Navigate your slides with `n` - Next Slide, `p` - Prev Slide, `f` - First Slide, `l` - Last Slide. Its a fun little plugin that I use on a regular basis. I am working on it actively.
+
+### UI Man - A UI Library
+[UI Man]() - An Open-source UI library that is easy to implement onto your React project. You own the code. Live link coming soon.
 
 ## ⚡️ Where to Find Me
 
