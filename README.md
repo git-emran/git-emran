@@ -13,7 +13,7 @@ I am passionate about programming and design and Vim. Why? I am an artist by nat
 
 ### Slides - Neovim Plugin
 
-[Chess Engine](https://github.com/git-emran/slides.nvim) - A Slideshow Presentation inside Neovim. Inside any Markdown file, with the command `:Slides` a new tab gets created that is ready for Presentation. Navigate your slides with `n` - Next Slide, `p` - Prev Slide, `f` - First Slide, `l` - Last Slide. Its a fun little plugin that I use on a regular basis. I am working on it actively.
+[Slides.nvim](https://github.com/git-emran/slides.nvim) - A Slideshow Presentation inside Neovim. Inside any Markdown file, with the command `:Slides` a new tab gets created that is ready for Presentation. Navigate your slides with `n` - Next Slide, `p` - Prev Slide, `f` - First Slide, `l` - Last Slide. Its a fun little plugin that I use on a regular basis. I am working on it actively.
 
 ### UI Man - UI Library
 [UI Man]() - An Open-source UI library that is easy to implement onto your React project. You own the code. Live link coming soon.
