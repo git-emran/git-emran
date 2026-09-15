@@ -1,6 +1,10 @@
 # 0→1 Engineer & Designer
 
-I am passionate about programming and design and Vim. Why? I am an artist by nature, and for some reason any form of abstraction always attracts me. How do I "enjoy" programming and design ? Well I try to create all the things I can imagine. I enjoy the process first then the fruits of my labor.
+I’m passionate about design and programming because, at heart, I’m an artist. I’ve always been drawn to abstraction, to the idea of taking something that exists only in your head and turning it into something real.
+
+That’s how I enjoy programming and design, I create, I take the things I imagine and try to bring them to life, whether that means writing code, shaping an interface, creating brand identity or building something entirely new.
+
+For me, the process is just as rewarding as the result. I enjoy the act of making, experimenting, breaking things, refining them, and watching an idea slowly become real. The finished product is the reward, but the process is what keeps me coming back.
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 <p align="center"><img src="metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Calendar" width="400"></p>
